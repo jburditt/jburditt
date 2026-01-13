@@ -36,8 +36,5 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 ### React
 - [Demo](https://github.com/jburditt/react-demo)
 
-## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jburditt)](https://github.com/jburditt/github-readme-stats)
-
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/jburditt/)
