@@ -1,8 +1,9 @@
 ## Introduction👋
 
 Senior full-stack developer with over 20 years of experience. Continually improving skills, currently focusing on Angular, DevOps, and C# LeetCode practice and system design challenges.  
+<br>
 
-## Skills
+## Skill Matrix :hammer:
 | Skill      | Level |
 | :-----------| -----: |
 | C# | :star::star::star::star::star: |
@@ -20,9 +21,9 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 | Kubernetes | :star::star: |
 | NodeJS | :star::star: |
 | SASS | :star::star: |
+<br>
 
-
-## Highlighted Projects
+## Highlighted Projects :bulb:
 
 ### Angular
 3 years of work experience, all hosted on GitHub under the Government of BC, and the following hobby projects:
@@ -48,6 +49,7 @@ classDiagram
         +Instance(): Singleton
     }
 ```
+<br>
 
-## Let's Connect
+## Let's Connect :sunglasses:
 [LinkedIn](https://www.linkedin.com/in/jburditt/)
