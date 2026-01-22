@@ -25,16 +25,29 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 ## Highlighted Projects
 
 ### Angular
+3 years of work experience, all hosted on GitHub under the Government of BC, and the following hobby projects:
 - [Shared Library/Blog](https://github.com/jburditt/fullswing-angular-library)
 - [Bootstrap/Demo/OAuth](https://github.com/jburditt/Angular-Bootstrap)
 - [Gamify Workout](https://github.com/jburditt/GamifyWorkout)
 
 ### C#
+20 years of work experience, some hobby projects:
 - [LeetCode Submissions](https://github.com/jburditt/Leet-Code)
 - [EF Core + Odata](https://github.com/jburditt/Angular-Bootstrap/tree/main/Api)
 
 ### React
 - [Demo](https://github.com/jburditt/react-demo)
+
+### Azure
+3 years of work experience and training
+```mermaid
+classDiagram
+    class Singleton{
+        -instance: Singleton
+        -Singleton()
+        +Instance(): Singleton
+    }
+```
 
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/jburditt/)
