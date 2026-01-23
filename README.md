@@ -23,6 +23,11 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 | SASS | :star::star: |
 <br>
 
+## Philosophy
+- [Company Efficiency](https://blog.fullsweb.com/blog/company-metric)
+- [Development Cost](https://blog.fullsweb.com/blog/develop-cost)
+<br>
+
 ## Highlighted Projects :bulb:
 
 ### Angular, OAuth
@@ -56,8 +61,25 @@ architecture-beta
     message:B <--> T:nosql
     message:R <--> L:db
     blob:T --> B:server
+
+    group blog(cloud)[Blog]
+    service blogapp(server)[App Service] in blog
+    service blogblob(database)[Blob Storage] in blog
+    service deploy(internet)[GitHub Action] in blog
+    deploy:T --> B:blogblob
+    blogblob:R --> L:blogapp
 ```
+<!-- 
+database, server, cloud, disk, internet
+NOTES: Add GitHub Action CI/CD, Entra ID
+-->
 <br>
 
 ## Let's Connect :sunglasses:
-[LinkedIn](https://www.linkedin.com/in/jburditt/)
+- [LinkedIn](https://www.linkedin.com/in/jburditt/)
+<br>
+
+## Learning Path
+- [ ] Microsoft Learn: AZ-900
+- [ ] Microsoft Learn: SC-900T00-A
+<br>
