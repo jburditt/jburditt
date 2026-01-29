@@ -68,6 +68,15 @@ architecture-beta
     service deploy(internet)[GitHub Action] in blog
     deploy:T --> B:blogblob
     blogblob:R --> L:blogapp
+
+    group wordpress(cloud)[Wordpress Azure Container App]
+    service wordpress_php(server)[Wordpress Container] in wordpress
+    service wordpress_db(database)[MySQL Container] in wordpress
+    service wordpress_nginx(internet)[NginX Container] in wordpress
+    service wordpress_certbot(disk)[Certbot Sidecar Container] in wordpress
+    wordpress_php:T <--> B:wordpress_db
+    wordpress_php:L <-- R:wordpress_nginx
+    wordpress_certbot:T --> B:wordpress_nginx
 ```
 <!-- 
 database, server, cloud, disk, internet
