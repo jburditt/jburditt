@@ -51,6 +51,7 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 ### Azure / Terraform
 3 years of work experience using Azure. The following are hobby projects deployed with Azure CLI and Terraform:
 - [Static Web App Demo](https://github.com/jburditt/Fullswing-Solutions)
+- [Static Web App, Sql Database, and Function App](https://github.com/jburditt/GamifyWorkout)
 ```mermaid
 architecture-beta
     group api(cloud)[Azure Architecture]
