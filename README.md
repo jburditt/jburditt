@@ -8,8 +8,8 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 | :-----------| -----: |
 | C# | :star::star::star::star::star: |
 | GIT | :star::star::star::star::star: |
+| JavaScript | :star::star::star::star::star: |
 | Angular | :star::star::star::star: |
-| JavaScript | :star::star::star::star: |
 | MVC | :star::star::star::star: |
 | EF | :star::star::star::star: |
 | Java | :star::star::star: |
@@ -18,8 +18,8 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 | AWS | :star::star::star: |
 | TypeScript | :star::star::star: |
 | Docker | :star::star::star: |
+| Terraform | :star::star::star: |
 | Kubernetes | :star::star: |
-| Terraform | :star::star: |
 | NodeJS | :star::star: |
 | SASS | :star::star: |
 <br>
