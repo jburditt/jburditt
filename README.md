@@ -9,11 +9,12 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 | C# | :star::star::star::star::star: |
 | GIT | :star::star::star::star::star: |
 | JavaScript | :star::star::star::star::star: |
-| Angular | :star::star::star::star: |
+| HTML5/CSS | :star::star::star::star::star: |
+| Angular | :star::star::star::star::star: |
+| MSSQL | :star::star::star::star: |
 | MVC | :star::star::star::star: |
 | EF | :star::star::star::star: |
 | Java | :star::star::star: |
-| MSSQL | :star::star::star: |
 | Azure | :star::star::star: |
 | AWS | :star::star::star: |
 | TypeScript | :star::star::star: |
