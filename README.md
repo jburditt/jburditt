@@ -4,25 +4,17 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 <br>
 
 ## Skill Matrix :hammer:
-| Skill      | Level |
-| :-----------| -----: |
-| C# | :star::star::star::star::star: |
-| GIT | :star::star::star::star::star: |
-| JavaScript | :star::star::star::star::star: |
-| HTML5/CSS | :star::star::star::star::star: |
-| Angular | :star::star::star::star::star: |
-| MSSQL | :star::star::star::star: |
-| MVC | :star::star::star::star: |
-| EF | :star::star::star::star: |
-| Java | :star::star::star: |
-| Azure | :star::star::star: |
-| AWS | :star::star::star: |
-| TypeScript | :star::star::star: |
-| Docker | :star::star::star: |
-| Terraform | :star::star::star: |
-| Kubernetes | :star::star: |
-| NodeJS | :star::star: |
-| SASS | :star::star: |
+| Skill      | Level | Skill | Level |
+| :-----------| -----: | :-- | ----: |
+| C# | :star::star::star::star::star: | Azure | :star::star::star: |
+| GIT | :star::star::star::star::star: | AWS | :star::star::star: |
+| JavaScript | :star::star::star::star::star: | TypeScript | :star::star::star: |
+| HTML5/CSS | :star::star::star::star::star: | Docker | :star::star::star: |
+| Angular | :star::star::star::star::star: | Terraform | :star::star::star: |
+| MSSQL | :star::star::star::star: | Kubernetes | :star::star: |
+| MVC | :star::star::star::star: | NodeJS | :star::star: |
+| EF | :star::star::star::star: | SASS | :star::star: |
+| Java | :star::star::star: | Life | :star::star::star::star::star: |
 <br>
 
 ## Philosophy :scroll:
