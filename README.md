@@ -92,6 +92,20 @@ NOTES: Add GitHub Action CI/CD, Entra ID
 <br>
 
 ## Learning Path :books:
+- [x] Angular senior-level preparation (not certified)
 - [ ] Microsoft Learn: AZ-900
 - [ ] Microsoft Learn: SC-900T00-A
+- [ ] Microsoft Learn: AZ-305
+- [ ] Read entire .NET documentation
+- [ ] Javascript senior-level certificate
+- [ ] Read "Clean Architecture"
+- [ ] Read "Learn: Domain-Driven Design"
+- [ ] Read "Design Patterns: Elements of Reusable Object-Oriented Software"
+- [ ] Solve 20+ Leet Code problems in 90th percentile
+- [ ] Complete all Leet Code quests
 <br>
+
+## Portfolio
+- [GamifyWorkout](https://www.gamifyworkout.com)
+- [Blog](https://blog.fullsweb.com)
+- [Consulting](https://www.fullsweb.com/)
