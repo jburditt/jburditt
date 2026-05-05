@@ -14,7 +14,7 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 | MSSQL | :star::star::star::star: | Kubernetes | :star::star: |
 | MVC | :star::star::star::star: | NodeJS | :star::star: |
 | EF | :star::star::star::star: | SASS | :star::star: |
-| Java | :star::star::star: | Life | :star::star::star::star::star: |
+| Java | :star::star::star: | AI | :star::star::star: |
 <br>
 
 ## Philosophy :scroll:
@@ -24,10 +24,12 @@ Senior full-stack developer with over 20 years of experience. Continually improv
 
 ## Highlighted Projects :bulb:
 
-### Angular, OAuth
+### Angular, OAuth, AI
 3 years of work experience, all hosted on GitHub under the Government of BC, and the following hobby projects:
 - [Shared Library/Blog](https://github.com/jburditt/fullswing-angular-library)
 - [Bootstrap/Demo/OAuth](https://github.com/jburditt/Angular-Bootstrap)
+  
+Experimenting with AI code assist, best practice and templating instructions, agentic workflows, and more.
 - [Gamify Workout](https://github.com/jburditt/GamifyWorkout)
 
 ### C#, Entity Framework
@@ -86,6 +88,7 @@ NOTES: Add GitHub Action CI/CD, Entra ID
 
 ## Learning Path :books:
 - [x] Angular senior-level preparation (not certified)
+- [ ] Angular AI spec-driven project
 - [ ] Microsoft Learn: AZ-900
 - [ ] Microsoft Learn: SC-900T00-A
 - [ ] Microsoft Learn: AZ-305
